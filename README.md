@@ -11,7 +11,9 @@
 - :white_check_mark: Complete "Lista de arquivos filtrados"
 - :white_check_mark: Complete "Faça isso Modular"
 - :white_check_mark: Complete "Cliente HTTP"
+
 [:green_book: Lesson at FreeCodeCamp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
+
 - :white_check_mark: Complete "Coletanea HTTP"
 - :white_large_square: Complete "Brincando Assíncronicamente"
 - :white_large_square: Complete "Servidor de tempo"
