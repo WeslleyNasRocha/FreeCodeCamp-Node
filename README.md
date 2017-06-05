@@ -10,9 +10,8 @@
 - :white_check_mark: Complete "Meu primeiro I/O Assíncrono"
 - :white_check_mark: Complete "Lista de arquivos filtrados"
 - :white_check_mark: Complete "Faça isso Modular"
-- :white_check_mark: Complete "Cliente HTTP"
-### Optional
-- :white_large_square: Complete "Coletanea HTTP"
+- :x: Complete "Cliente HTTP"
+- :white_check_mark: Complete "Coletanea HTTP"
 - :white_large_square: Complete "Brincando Assíncronicamente"
 - :white_large_square: Complete "Servidor de tempo"
 - :white_large_square: Complete "Servidor de arquivos HTTP"
