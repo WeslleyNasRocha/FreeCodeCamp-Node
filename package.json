@@ -16,5 +16,13 @@
     "url": "https://github.com/WeslleyNasRocha/FreeCodeCamp-Node/issues"
   },
   "homepage": "https://github.com/WeslleyNasRocha/FreeCodeCamp-Node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "learnyounode": "^3.5.10"
+  }
 }
