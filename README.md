@@ -15,7 +15,7 @@
 [:green_book: Lesson at FreeCodeCamp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
 
 - :white_check_mark: Complete "Coletanea HTTP"
-- :white_large_square: Complete "Brincando Assíncronicamente"
+- :white_check_mark: Complete "Brincando Assíncronicamente"
 - :white_large_square: Complete "Servidor de tempo"
 - :white_large_square: Complete "Servidor de arquivos HTTP"
 - :white_large_square: Complete "Transformador uppercase HTTP"
